@@ -1,6 +1,10 @@
-![Hollow Knight Avatar](https://upload.wikimedia.org/wikipedia/en/e/e0/Hollow_Knight_cover_art.png)
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubTXN6nQLo-bA_QDfxZS5M5mLu3qmoxAv0_k0WuJ5-gdt9vG0ZW5X7DLGOgcNT0C2azs&usqp=CAU" alt="Hollow Knight Avatar" width="180"/>
+</p>
 
-![Banner](https://img.shields.io/badge/Devanycode-morado%20y%20ML-8e44ad?style=for-the-badge&logo=github)
+<p align="center">
+  <img src="https://img.shields.io/badge/Devanycode-ML-8e44ad?style=for-the-badge&logo=github"/>
+</p>
 
 # 👋 ¡Hola! Soy Devanycode
 
@@ -28,6 +32,8 @@ Siempre en búsqueda de conocimiento en ciencia de datos, inteligencia artificia
 
 ---
 
-![Purple Divider](https://img.shields.io/badge/Aprendizaje-Constante-8e44ad?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/Aprendizaje-Constante-8e44ad?style=flat-square"/>
+</p>
 
 _Este perfil está en constante evolución, al igual que mi aprendizaje._
