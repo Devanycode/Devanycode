@@ -27,7 +27,7 @@ Siempre en búsqueda de conocimiento en ciencia de datos, inteligencia artificia
 - [Udemy](https://www.udemy.com/user/samuel-devany-rincon-ceballos)
 - [Kaggle](https://www.kaggle.com/devanyrincn)
 
-## ✨ Fun fact / Motto
+
 > Aunque falle o sea difícil, nunca me rindo hasta no lograrlo.
 
 ---
