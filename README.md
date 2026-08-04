@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubTXN6nQLo-bA_QDfxZS5M5mLu3qmoxAv0_k0WuJ5-gdt9vG0ZW5X7DLGOgcNT0C2azs&usqp=CAU" alt="Hollow Knight Avatar" width="180"/>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Devanycode-ML-8e44ad?style=for-the-badge&logo=github"/>
