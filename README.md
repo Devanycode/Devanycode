@@ -7,14 +7,16 @@
 # 👋 ¡Hola! Soy Devanycode
 
 ## 📚 Sobre mí
-Estudiante apasionado por la Inteligencia Artificial, especialmente enfocada en la investigación científica. Actualmente aprendiendo **Python** y construyendo mi roadmap hacia **Machine Learning** y **Deep Learning**.
+Soy un estudiante apasionado por la Inteligencia Artificial, especialmente enfocada en la investigación científica. Actualmente aprendiendo **Python** y construyendo mi roadmap hacia **Machine Learning** y **Deep Learning**.
 
 ## 🚀 Habilidades
 - **Python (Fundamentos)**
+- Análisis de datos 
 - IA, ML y DL en camino
 
-## 🛠️ Proyecto Destacado
-- [Roadmap_ML](https://github.com/Devanycode/Roadmap_ML): Mi guía personal y proyecto en progreso para adentrarme en el mundo del Machine Learning.
+## 🛠️ Proyectos Destacados
+- [Roadmap_ML](https://github.com/Devanycode/Roadmap_ML): Mi guía personal y proyecto en progreso para adentrarme en el mundo del Machine Learning
+- [Brazilian-Ecommerce-Pipeline](https://github.com/Devanycode/brazilian-ecommerce-pipeline.git): Mi primer proyecto serio sobre análisis de datos.
 
 ## 🌱 Aprendizaje activo
 Siempre en búsqueda de conocimiento en ciencia de datos, inteligencia artificial y nuevas tecnologías.
