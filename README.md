@@ -1,31 +1,21 @@
+# ¡Hola! Soy Devany 👋
 
+Soy estudiante y desarrollador enfocado en **Análisis de Datos**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Devanycode-ML-8e44ad?style=for-the-badge&logo=github"/>
-</p>
+Me interesa transformar datos en información útil mediante procesos de limpieza, modelado y visualización.
 
-# 👋 ¡Hola! Soy Devanycode
+Actualmente trabajo principalmente con:
 
-## 📚 Sobre mí
-Soy un estudiante apasionado por la Inteligencia Artificial, especialmente enfocada en la investigación científica. Actualmente aprendiendo **Python** y construyendo mi roadmap hacia **Machine Learning** y **Deep Learning**.
+- 🐍 Python
+- 🛢️ SQL (MySQL)
+- 📊 Análisis de datos con Pandas
+- 📈 Visualización de datos
+- 📋 Dashboards con Metabase
+- 🔧 Git y GitHub
 
-## 🚀 Habilidades
-- **Python (Fundamentos)**
-- Análisis de datos 
-- IA, ML y DL en camino
+Actualmente estoy desarrollando proyectos enfocados en la construcción de pipelines de datos, modelado relacional y generación de reportes para fortalecer mi portafolio.
 
-## 🛠️ Proyectos Destacados
-- [Roadmap_ML](https://github.com/Devanycode/Roadmap_ML): Mi guía personal y proyecto en progreso para adentrarme en el mundo del Machine Learning
-- [Brazilian-Ecommerce-Pipeline](https://github.com/Devanycode/brazilian-ecommerce-pipeline.git): Mi primer proyecto serio sobre análisis de datos.
-
-## 🌱 Aprendizaje activo
-Siempre en búsqueda de conocimiento en ciencia de datos, inteligencia artificial y nuevas tecnologías.
-
-## 🔗 Encuéntrame en
-[![Codewars Badge](https://www.codewars.com/users/Devanycode/badges/large)](https://www.codewars.com/users/Devanycode)
-- [Coursera](https://www.coursera.org/user/2d34119b6dd3edc24735965c2468406e)
-- [Udemy](https://www.udemy.com/user/samuel-devany-rincon-ceballos)
-- [Kaggle](https://www.kaggle.com/devanyrincn)
+Siempre estoy aprendiendo nuevas herramientas relacionadas con Data Analytics y Data Engineering.
 
 
 > Aunque falle o sea difícil, nunca me rindo hasta no lograrlo.
