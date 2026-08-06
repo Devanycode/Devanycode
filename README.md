@@ -4,6 +4,25 @@ Soy estudiante y desarrollador enfocado en **Análisis de Datos**.
 
 Me interesa transformar datos en información útil mediante procesos de limpieza, modelado y visualización.
 
+## 🚀 Proyecto Destacado
+
+### 📊 Brazilian E-commerce Pipeline
+
+Pipeline de datos construido con Python y Pandas utilizando el dataset público de Olist.
+
+**Incluye:**
+
+- Modelado de datos
+- Pipeline ETL
+- Validación de relaciones entre tablas
+- Documentación técnica
+- Diagramas ER y Pipeline
+- Tabla analítica para análisis posteriores
+
+➡️ **Repositorio:**
+https://github.com/Devanycode/brazilian-ecommerce-pipeline
+
+
 Actualmente trabajo principalmente con:
 
 - 🐍 Python
@@ -16,18 +35,6 @@ Actualmente trabajo principalmente con:
 Actualmente estoy desarrollando proyectos enfocados en la construcción de pipelines de datos, modelado relacional y generación de reportes para fortalecer mi portafolio.
 
 Siempre estoy aprendiendo nuevas herramientas relacionadas con Data Analytics y Data Engineering.
-
-## Tecnologías
-
-Python
-
-SQL (MySQL)
-
-Pandas
-
-Metabase
-
-GitHub
 
 > Aunque falle o sea difícil, nunca me rindo hasta no lograrlo.
 
