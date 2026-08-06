@@ -17,6 +17,17 @@ Actualmente estoy desarrollando proyectos enfocados en la construcción de pipel
 
 Siempre estoy aprendiendo nuevas herramientas relacionadas con Data Analytics y Data Engineering.
 
+## Tecnologías
+
+Python
+
+SQL (MySQL)
+
+Pandas
+
+Metabase
+
+GitHub
 
 > Aunque falle o sea difícil, nunca me rindo hasta no lograrlo.
 
