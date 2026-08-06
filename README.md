@@ -6,21 +6,11 @@ Me interesa transformar datos en información útil mediante procesos de limpiez
 
 ## 🚀 Proyecto Destacado
 
-### 📊 Brazilian E-commerce Pipeline
+| Proyecto                            | Descripción                                                                                                            |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 📊 Brazilian E-commerce Pipeline    | Pipeline ETL desarrollado con Python y Pandas para integrar múltiples tablas relacionales en una tabla analítica.      |
+| 📈 Business Intelligence Dashboards | Dashboards desarrollados con SQL y Metabase para el seguimiento de indicadores y visualización de datos empresariales. |
 
-Pipeline de datos construido con Python y Pandas utilizando el dataset público de Olist.
-
-**Incluye:**
-
-- Modelado de datos
-- Pipeline ETL
-- Validación de relaciones entre tablas
-- Documentación técnica
-- Diagramas ER y Pipeline
-- Tabla analítica para análisis posteriores
-
-➡️ **Repositorio:**
-https://github.com/Devanycode/brazilian-ecommerce-pipeline
 
 
 Actualmente trabajo principalmente con:
