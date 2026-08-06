@@ -9,7 +9,7 @@ Me interesa transformar datos en información útil mediante procesos de limpiez
 | Proyecto | Descripción |
 |----------|-------------|
 | 📊 **[Brazilian E-commerce Pipeline](https://github.com/Devanycode/brazilian-ecommerce-pipeline)** | Pipeline ETL desarrollado con Python y Pandas para integrar múltiples tablas relacionales en una tabla analítica. |
-| 📈 **[Business Intelligence Dashboards](https://github.com/Devanycode/sigires-dashboards)** | Dashboards desarrollados con SQL y Metabase para el seguimiento de indicadores y visualización de datos empresariales. |
+| 📈 **[Business Intelligence Dashboards](https://github.com/Devanycode/Business-Intelligence-Dashboards-Sigires.git)** | Dashboards desarrollados con SQL y Metabase para el seguimiento de indicadores y visualización de datos empresariales. |
 
 
 Actualmente trabajo principalmente con:
