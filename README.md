@@ -7,7 +7,7 @@ Aspirante a **Analista de Datos Junior** en Medellín, Colombia. Me gusta conver
 | Proyecto | Descripción |
 |----------|-------------|
 | 📊 **[Brazilian E-commerce Pipeline](https://github.com/Devanycode/brazilian-ecommerce-pipeline)** | Pipeline ETL con Python, Pandas y MySQL sobre ~100 mil pedidos, con validaciones de calidad de datos, dashboard en Power BI (DAX) y análisis de negocio documentado con SQL. |
-| 📈 **[Business Intelligence Dashboards Sigires](https://github.com/Devanycode/Business-Intelligence-Dashboards-Sigires.git)** | Dashboards desarrollados con SQL y Metabase para el seguimiento de indicadores y visualización de datos empresariales. |
+| 📈 **[Business Intelligence Dashboards Sigires](https://github.com/Devanycode/dashboards-soporte-metabase)** | Dashboards desarrollados con SQL y Metabase para el seguimiento de indicadores y visualización de datos empresariales. |
 
 
 ## Herramientas
