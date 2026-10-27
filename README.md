@@ -1,25 +1,25 @@
 # ¡Hola! Soy Devany 👋
 
-Soy estudiante y desarrollador enfocado en **Análisis de Datos**.
+Aspirante a **Analista de Datos Junior** en Medellín, Colombia. Me gusta convertir datos en respuestas a preguntas de negocio: limpiar, modelar y visualizar.
 
-Me interesa transformar datos en información útil mediante procesos de limpieza, modelado y visualización.
-
-## 🚀 Proyecto Destacado
+## 🚀 Proyectos Destacados
 
 | Proyecto | Descripción |
 |----------|-------------|
-| 📊 **[Brazilian E-commerce Pipeline](https://github.com/Devanycode/brazilian-ecommerce-pipeline)** | Pipeline ETL desarrollado con Python y Pandas para integrar múltiples tablas relacionales en una tabla analítica. |
+| 📊 **[Brazilian E-commerce Pipeline](https://github.com/Devanycode/brazilian-ecommerce-pipeline)** | Pipeline ETL con Python, Pandas y MySQL sobre ~100 mil pedidos, con validaciones de calidad de datos, dashboard en Power BI (DAX) y análisis de negocio documentado con SQL. |
 | 📈 **[Business Intelligence Dashboards Sigires](https://github.com/Devanycode/Business-Intelligence-Dashboards-Sigires.git)** | Dashboards desarrollados con SQL y Metabase para el seguimiento de indicadores y visualización de datos empresariales. |
 
 
-Actualmente trabajo principalmente con:
+## Herramientas
 
-- 🐍 Python
-- 🛢️ SQL (MySQL)
-- 📊 Análisis de datos con Pandas
-- 📈 Visualización de datos
-- 📋 Dashboards con Metabase
-- 🔧 Git y GitHub
+| Área | Herramientas |
+|---|---|
+| Lenguajes | Python (Pandas), SQL (MySQL) |
+| BI | Power BI (DAX), Metabase |
+| Otros | Git y GitHub |
+
+## Contacto 
+correo: devany.code.gg@gmail.com
 
 Actualmente estoy desarrollando proyectos enfocados en la construcción de pipelines de datos, modelado relacional y generación de reportes para fortalecer mi portafolio.
 
