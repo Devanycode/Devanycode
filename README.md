@@ -21,7 +21,6 @@ Aspirante a **Analista de Datos Junior** en Medellín, Colombia. Me gusta conver
 ## Contacto 
 correo: devany.code.gg@gmail.com
 
-Actualmente estoy desarrollando proyectos enfocados en la construcción de pipelines de datos, modelado relacional y generación de reportes para fortalecer mi portafolio.
 
 Siempre estoy aprendiendo nuevas herramientas relacionadas con Data Analytics y Data Engineering.
 
