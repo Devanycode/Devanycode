@@ -35,4 +35,4 @@ Siempre estoy aprendiendo nuevas herramientas relacionadas con Data Analytics y 
   <img src="https://img.shields.io/badge/Aprendizaje-Constante-8e44ad?style=flat-square"/>
 </p>
 
-_Este perfil está en constante evolución, al igual que mi aprendizaje._
+
