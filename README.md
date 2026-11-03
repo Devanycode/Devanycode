@@ -20,6 +20,7 @@ Aspirante a **Analista de Datos Junior** en Medellín, Colombia. Me gusta conver
 
 ## Contacto 
 correo: devany.code.gg@gmail.com
+
 Linkedin: www.linkedin.com/in/devanycode
 
 
