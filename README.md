@@ -24,6 +24,7 @@ correo: devany.code.gg@gmail.com
 Linkedin: www.linkedin.com/in/devanycode
 
 
+
 Siempre estoy aprendiendo nuevas herramientas relacionadas con Data Analytics y Data Engineering.
 
 > Aunque falle o sea difícil, nunca me rindo hasta no lograrlo.
